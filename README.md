@@ -1,8 +1,6 @@
 # ExploreVedios
 * Showing four session as Trendling, Must Watch, Newly Added and Populer.with thumbnails.
 
-![showing](https://user-images.githubusercontent.com/36834813/116227411-bed97f00-a771-11eb-8f44-7889326d0532.png)
-
 * On Clicking Thumnails opening vedio in Player view controller. 
   * swipe up to previous 
   * swipe down to next
